@@ -1,0 +1,235 @@
+section
+Yoneda embedding
+Leopold Kronecker
+complete
+natural numbers
+covariant
+evaluation
+fork
+large
+disjoint union
+essentially surjective on objects
+GAFT
+general adjoint functor theorem 
+natural transformation
+Zermelo–Fraenkel with choice
+ZFC 
+partial function
+representation
+essentially small
+generalized element
+scheme
+diagonal
+sameness
+subcategory
+lower bound
+universal
+loop
+computer science
+identity
+associative algebra
+black king
+join
+reflective
+duality
+full
+creation of limits
+surjection
+density
+Saunders Mac Lane
+function
+pullback
+holomorphic function
+preorder
+surface
+direct limit
+polynomial
+isomorphism
+group
+inclusion
+G-set
+Yoneda lemma
+epimorphism
+arithmetic
+greatest lower bound
+embedding
+sequence
+∞-category
+centre
+injective object
+diagram
+initial
+integers
+ℤ 
+monomorphism
+exponential
+free functor
+discrete
+Stone–Čech compactification
+locally small
+product
+naturally
+sum
+tensor product
+unit and counit
+monoid
+abelianization
+adjoint functor theorems
+transpose
+shape
+Kan extension
+domain
+homology
+preservation
+topos
+adjunction
+reflection 
+small
+coequalizer
+duck
+projective object
+least element
+Sierpiński space
+equalizer
+subset
+morphism
+variety
+order-preserving
+connectedness
+figure
+contravariant
+injection
+Lie algebra
+model
+equivalence of categories
+fixed point
+C*-algebra
+monoidal closed category
+sheaf
+slice category
+minimum
+type
+projection
+chess
+quantifiers as adjoints
+relation
+Fubini's theorem
+open subset
+string diagram
+composition
+monic
+Boolean algebra
+collection
+supremum
+weakly initial
+simultaneous equations
+cohomology
+kernel
+quotient
+ordered set
+presheaf
+cocone
+fibred product
+empty family
+special adjoint functor theorem
+algebra
+least upper bound
+special adjoint functor theorem
+SAFT 
+matrix
+greatest common divisor
+element
+forgetful
+interchange law
+natural isomorphism
+van Kampen's theorem
+family
+total order
+predicate
+integers
+uniqueness
+object
+category
+metric space
+ring
+homotopy
+bilinear
+arrow
+terminal
+faithful
+underlying
+field
+adjunction
+axiom of choice
+cardinality
+Georg Cantor
+meet
+foundations
+topological space
+cone
+component
+pointwise
+well-powered
+union
+set
+infimum
+thought experiment
+image
+canonical
+comma category
+hom-set
+closure
+equivariant
+Fourier analysis
+vertex
+algebraic geometry
+functor
+equivalence relation
+coprojection
+upper bound
+indiscrete space
+associativity
+sphere
+colimit
+poset
+bicycle inner tube
+coreflective
+applied mathematics
+aerial photography
+intersection
+pushout
+n-category
+permutation
+Samuel Eilenberg
+characteristic function
+lowest common multiple
+subobject
+triangle identities
+inverse
+map
+explicit description
+algebraic topology
+manifold
+codomain
+coslice category
+class
+algebraic theory
+arity
+determinant
+epic
+partially ordered set
+prime numbers
+limit
+preimage
+representable
+2-category
+vector space
+topological group
+reflection of limits
+commutes
+counit
+cartesian closed category
+word
+coproduct
+generated equivalence relation
+power

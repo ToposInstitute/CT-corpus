@@ -1,0 +1,282 @@
+[
+  {
+    "headword": "category",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "objects",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "maps",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "arrows",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "morphisms",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "composition",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "identity",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "associativity",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "identity\nlaws",
+    "definition": "A category\n𝒜 consists of:\n\n\n•\n\na collection ob⁡(𝒜)\nof objects;\n\n\n\n•\n\nfor each A,B∈ob⁡(𝒜), a collection 𝒜⁢(A,B)\nof maps\nor arrows\nor morphisms\nfrom A to B;\n\n\n\n•\n\nfor each A,B,C∈ob⁡(𝒜), a function\n\n\n\n𝒜⁢(B,C)×𝒜⁢(A,B)→𝒜⁢(A,C)(g,f)↦g∘f,\n\n\n\ncalled composition;\n\n\n\n•\n\nfor each A∈ob⁡(𝒜), an element 1A\nof 𝒜⁢(A,A), called the identity\non A,\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nassociativity:\nfor each f∈𝒜⁢(A,B), g∈𝒜⁢(B,C) and h∈𝒜⁢(C,D), we have (h∘g)∘f=h∘(g∘f);\n\n\n\n•\n\nidentity\nlaws: for each f∈𝒜⁢(A,B), we have f∘1A=f=1B∘f."
+  },
+  {
+    "headword": "isomorphism",
+    "definition": "A map f:A→B in a category 𝒜 is an isomorphism\nif there exists a map g:B→A in 𝒜 such that g⁢f=1A\nand f⁢g=1B."
+  },
+  {
+    "headword": "functor",
+    "definition": "Let 𝒜 and ℬ be categories. A functor\nF:𝒜→ℬ consists of:\n\n\n•\n\na function\n\n\n\nob⁡(𝒜)→ob⁡(ℬ),\n\n\n\nwritten as A↦F⁢(A);\n\n\n\n•\n\nfor each A,A′∈𝒜, a function\n\n\n\n𝒜⁢(A,A′)→ℬ⁢(F⁢(A),F⁢(A′)),\n\n\n\nwritten as f↦F⁢(f),\n\n\n\nsatisfying the following axioms:\n\n\n•\n\nF⁢(f′∘f)=F⁢(f′)∘F⁢(f) whenever A⟶fA′⟶f′A′′ in\n𝒜;\n\n\n\n•\n\nF⁢(1A)=1F⁢(A) whenever A∈𝒜."
+  },
+  {
+    "headword": "contravariant\nfunctor",
+    "definition": "Let 𝒜 and ℬ be categories. A contravariant\nfunctor from 𝒜 to ℬ is a functor 𝒜op→ℬ."
+  },
+  {
+    "headword": "presheaf",
+    "definition": "Let 𝒜 be a category. A presheaf\non 𝒜 is a functor 𝒜op→𝐒𝐞𝐭."
+  },
+  {
+    "headword": "faithful",
+    "definition": "A functor F:𝒜→ℬ is faithful\n(respectively, full)\nif for each A,A′∈𝒜, the function\n\n\n\n𝒜⁢(A,A′)→ℬ⁢(F⁢(A),F⁢(A′))f↦F⁢(f)\n\n\n\nis injective (respectively, surjective)."
+  },
+  {
+    "headword": "full",
+    "definition": "A functor F:𝒜→ℬ is faithful\n(respectively, full)\nif for each A,A′∈𝒜, the function\n\n\n\n𝒜⁢(A,A′)→ℬ⁢(F⁢(A),F⁢(A′))f↦F⁢(f)\n\n\n\nis injective (respectively, surjective)."
+  },
+  {
+    "headword": "subcategory",
+    "definition": "Let 𝒜 be a category. A subcategory\n𝒮 of 𝒜 consists of a subclass ob⁡(𝒮) of\nob⁡(𝒜) together with, for each S,S′∈ob⁡(𝒮), a subclass\n𝒮⁢(S,S′) of 𝒜⁢(S,S′), such that 𝒮 is closed under\ncomposition and identities. It is a full\nsubcategory if 𝒮⁢(S,S′)=𝒜⁢(S,S′) for all S,S′∈ob⁡(𝒮)."
+  },
+  {
+    "headword": "full",
+    "definition": "Let 𝒜 be a category. A subcategory\n𝒮 of 𝒜 consists of a subclass ob⁡(𝒮) of\nob⁡(𝒜) together with, for each S,S′∈ob⁡(𝒮), a subclass\n𝒮⁢(S,S′) of 𝒜⁢(S,S′), such that 𝒮 is closed under\ncomposition and identities. It is a full\nsubcategory if 𝒮⁢(S,S′)=𝒜⁢(S,S′) for all S,S′∈ob⁡(𝒮)."
+  },
+  {
+    "headword": "natural\ntransformation",
+    "definition": "Let 𝒜 and ℬ be categories and let\n𝒜FGℬ be functors. A natural\ntransformation α:F→G is a family (F⁢(A)⟶αAG⁢(A))A∈𝒜\nof maps in ℬ such that\nfor every map A⟶fA′ in 𝒜, the square\n\n\n\n\n\n⁢\nF\n\n\n\n(\nA\n)\n\n\n\n\n\n⁢\nF\n\n\n\n(\nf\n)\n\n\n\n\n\n\nα\nA\n\n\n\n⁢\nF\n\n\n\n(\n\n\nA\n′\n\n)\n\n\n\n\n\n\nα\n\n\nA\n′\n\n\n\n\n⁢\nG\n\n\n\n(\nA\n)\n\n\n\n\n\n⁢\nG\n\n\n\n(\nf\n)\n\n\n\n\n\n⁢\nG\n\n\n\n(\n\n\nA\n′\n\n)\n\n\n\n\n\n(1.1)\n\n\ncommutes. The maps αA are called the components\nof α."
+  },
+  {
+    "headword": "components",
+    "definition": "Let 𝒜 and ℬ be categories and let\n𝒜FGℬ be functors. A natural\ntransformation α:F→G is a family (F⁢(A)⟶αAG⁢(A))A∈𝒜\nof maps in ℬ such that\nfor every map A⟶fA′ in 𝒜, the square\n\n\n\n\n\n⁢\nF\n\n\n\n(\nA\n)\n\n\n\n\n\n⁢\nF\n\n\n\n(\nf\n)\n\n\n\n\n\n\nα\nA\n\n\n\n⁢\nF\n\n\n\n(\n\n\nA\n′\n\n)\n\n\n\n\n\n\nα\n\n\nA\n′\n\n\n\n\n⁢\nG\n\n\n\n(\nA\n)\n\n\n\n\n\n⁢\nG\n\n\n\n(\nf\n)\n\n\n\n\n\n⁢\nG\n\n\n\n(\n\n\nA\n′\n\n)\n\n\n\n\n\n(1.1)\n\n\ncommutes. The maps αA are called the components\nof α."
+  },
+  {
+    "headword": "natural\nisomorphism",
+    "definition": "Let 𝒜 and ℬ be categories. A natural\nisomorphism between functors from 𝒜 to ℬ is an isomorphism\nin [𝒜,ℬ]."
+  },
+  {
+    "headword": "equivalence",
+    "definition": "An equivalence\nbetween categories 𝒜 and ℬ consists\nof a pair (1.2) of functors together with natural isomorphisms\n\n\n\nη:1𝒜→G∘F,ε:F∘G→1ℬ.\n\n\n\nIf there exists an equivalence between 𝒜 and ℬ, we say that\n𝒜 and ℬ are equivalent, and write 𝒜≃ℬ.\nWe also say that the functors F and G are equivalences."
+  },
+  {
+    "headword": "equivalent",
+    "definition": "An equivalence\nbetween categories 𝒜 and ℬ consists\nof a pair (1.2) of functors together with natural isomorphisms\n\n\n\nη:1𝒜→G∘F,ε:F∘G→1ℬ.\n\n\n\nIf there exists an equivalence between 𝒜 and ℬ, we say that\n𝒜 and ℬ are equivalent, and write 𝒜≃ℬ.\nWe also say that the functors F and G are equivalences."
+  },
+  {
+    "headword": "equivalences",
+    "definition": "An equivalence\nbetween categories 𝒜 and ℬ consists\nof a pair (1.2) of functors together with natural isomorphisms\n\n\n\nη:1𝒜→G∘F,ε:F∘G→1ℬ.\n\n\n\nIf there exists an equivalence between 𝒜 and ℬ, we say that\n𝒜 and ℬ are equivalent, and write 𝒜≃ℬ.\nWe also say that the functors F and G are equivalences."
+  },
+  {
+    "headword": "essentially\nsurjective on objects",
+    "definition": "A functor F:𝒜→ℬ is essentially\nsurjective on objects if for all B∈ℬ, there exists A∈𝒜 such that F⁢(A)≅B."
+  },
+  {
+    "headword": "left adjoint",
+    "definition": "Let 𝒜FℬG be categories and functors. We say\nthat F is left adjoint\nto G, and G is right adjoint to F, and write F⊣G,\nif\n\n\n\nℬ⁢(F⁢(A),B)≅𝒜⁢(A,G⁢(B))\n\n(2.1)\n\n\nnaturally in A∈𝒜 and B∈ℬ. The meaning of\n‘naturally’ is defined below. An adjunction between F and G is\na choice of natural isomorphism (2.1)."
+  },
+  {
+    "headword": "right adjoint",
+    "definition": "Let 𝒜FℬG be categories and functors. We say\nthat F is left adjoint\nto G, and G is right adjoint to F, and write F⊣G,\nif\n\n\n\nℬ⁢(F⁢(A),B)≅𝒜⁢(A,G⁢(B))\n\n(2.1)\n\n\nnaturally in A∈𝒜 and B∈ℬ. The meaning of\n‘naturally’ is defined below. An adjunction between F and G is\na choice of natural isomorphism (2.1)."
+  },
+  {
+    "headword": "adjunction",
+    "definition": "Let 𝒜FℬG be categories and functors. We say\nthat F is left adjoint\nto G, and G is right adjoint to F, and write F⊣G,\nif\n\n\n\nℬ⁢(F⁢(A),B)≅𝒜⁢(A,G⁢(B))\n\n(2.1)\n\n\nnaturally in A∈𝒜 and B∈ℬ. The meaning of\n‘naturally’ is defined below. An adjunction between F and G is\na choice of natural isomorphism (2.1)."
+  },
+  {
+    "headword": "initial",
+    "definition": "Let 𝒜 be a category. An object I∈𝒜 is initial\nif for every A∈𝒜, there is exactly one map I→A. An\nobject T∈𝒜 is terminal\nif for every A∈𝒜, there is exactly one map A→T."
+  },
+  {
+    "headword": "terminal",
+    "definition": "Let 𝒜 be a category. An object I∈𝒜 is initial\nif for every A∈𝒜, there is exactly one map I→A. An\nobject T∈𝒜 is terminal\nif for every A∈𝒜, there is exactly one map A→T."
+  },
+  {
+    "headword": "comma\ncategory",
+    "definition": "Given categories and functors\n\n\n\nℬQ𝒜P𝒞,\n\n\n\nthe comma\ncategory (P⇒Q)\n(often written as (P↓Q)) is the category defined as\nfollows:\n\n\n•\n\nobjects are triples (A,h,B) with A∈𝒜, B∈ℬ, and\nh:P⁢(A)→Q⁢(B) in 𝒞;\n\n\n\n•\n\nmaps (A,h,B)→(A′,h′,B′) are pairs (f:A→A′,g:B→B′) of maps such that the square\n\n\n\nP⁢(A)P⁢(f)hP⁢(A′)h′Q⁢(B)Q⁢(g)Q⁢(B′)\n\n\n\ncommutes."
+  },
+  {
+    "headword": "representable",
+    "definition": "Let 𝒜 be a locally small category. A functor X:𝒜→𝐒𝐞𝐭 is representable\nif X≅HA for some A∈𝒜.\nA representation\nof X is a choice of an object A∈𝒜 and an isomorphism between\nHA and X."
+  },
+  {
+    "headword": "representation",
+    "definition": "Let 𝒜 be a locally small category. A functor X:𝒜→𝐒𝐞𝐭 is representable\nif X≅HA for some A∈𝒜.\nA representation\nof X is a choice of an object A∈𝒜 and an isomorphism between\nHA and X."
+  },
+  {
+    "headword": "representable",
+    "definition": "Let 𝒜 be a locally small category. A functor X:𝒜op→𝐒𝐞𝐭 is representable\nif X≅HA for some A∈𝒜. A representation\nof X is a choice of an object A∈𝒜 and an isomorphism between\nHA and X."
+  },
+  {
+    "headword": "representation",
+    "definition": "Let 𝒜 be a locally small category. A functor X:𝒜op→𝐒𝐞𝐭 is representable\nif X≅HA for some A∈𝒜. A representation\nof X is a choice of an object A∈𝒜 and an isomorphism between\nHA and X."
+  },
+  {
+    "headword": "Yoneda\nembedding",
+    "definition": "Let 𝒜 be a locally small category. The Yoneda\nembedding of 𝒜 is the functor\n\n\n\nH∙:𝒜→[𝒜op,𝐒𝐞𝐭]\n\n\n\ndefined on objects A by H∙⁢(A)=HA and on maps f by H∙⁢(f)=Hf."
+  },
+  {
+    "headword": "generalized\nelement",
+    "definition": "Let A be an object of a category. A generalized\nelement of A is a map with codomain A. A map S→A is a\ngeneralized element of A of shape\nS."
+  },
+  {
+    "headword": "shape\nS",
+    "definition": "Let A be an object of a category. A generalized\nelement of A is a map with codomain A. A map S→A is a\ngeneralized element of A of shape\nS."
+  },
+  {
+    "headword": "product",
+    "definition": "Let 𝒜 be a category and X,Y∈𝒜. A product\nof X and Y consists of an object P and maps\n\n\n\nPp1p2XY\n\n\n\nwith the property that for all objects and maps\n\n\n\n\nA\n\n\n\nf\n1\n\n\n\n\nf\n2\n\n\nX\n\nY\n\n\n(5.1)\n\n\nin 𝒜, there exists a unique map f¯:A→P such that\n\n\n\n\nA\n\n\n\nf\n1\n\n\n\n¯\nf\n\n\n\n\nf\n2\n\n\nP\n\n\n\np\n1\n\n\n\n\np\n2\n\n\nX\n\nY\n\n\n(5.2)\n\n\ncommutes. The maps p1 and p2 are called the projections."
+  },
+  {
+    "headword": "projections",
+    "definition": "Let 𝒜 be a category and X,Y∈𝒜. A product\nof X and Y consists of an object P and maps\n\n\n\nPp1p2XY\n\n\n\nwith the property that for all objects and maps\n\n\n\n\nA\n\n\n\nf\n1\n\n\n\n\nf\n2\n\n\nX\n\nY\n\n\n(5.1)\n\n\nin 𝒜, there exists a unique map f¯:A→P such that\n\n\n\n\nA\n\n\n\nf\n1\n\n\n\n¯\nf\n\n\n\n\nf\n2\n\n\nP\n\n\n\np\n1\n\n\n\n\np\n2\n\n\nX\n\nY\n\n\n(5.2)\n\n\ncommutes. The maps p1 and p2 are called the projections."
+  },
+  {
+    "headword": "product",
+    "definition": "Let 𝒜 be a category, I a set, and (Xi)i∈I a family of\nobjects of 𝒜. A product\nof (Xi)i∈I consists of an object P and a family of maps\n\n\n\n(P⟶piXi)i∈I\n\n\n\nwith the property that for all objects A and families of maps\n\n\n\n(A⟶fiXi)i∈I\n\n(5.3)\n\n\nthere exists a unique map f¯:A→P such that pi∘f¯=fi for all i∈I."
+  },
+  {
+    "headword": "equalizer",
+    "definition": "Let 𝒜 be a category and let XstY be objects and\nmaps in 𝒜. An equalizer\nof s and t is an object E together with a map E⟶iX such\nthat\n\n\n\nEiXstY\n\n\n\nis a fork, and with the property that for any fork (5.4),\nthere exists a unique map f¯:A→E such that\n\n\n\n\nA\n\n\n¯\nf\n\n\nf\n\nE\n\ni\n\nX\n\n\n(5.5)\n\n\ncommutes."
+  },
+  {
+    "headword": "pullback",
+    "definition": "Let 𝒜 be a category, and take objects and maps\n\n\n\n\nY\n\nt\n\nX\n\ns\n\nZ\n\n\n(5.6)\n\n\nin 𝒜. A pullback\nof this diagram is an object P∈𝒜 together with maps p1:P→X and p2:P→Y such that\n\n\n\n\nP\n\n\n\np\n2\n\n\n\n\np\n1\n\n\nY\n\nt\n\nX\n\ns\n\nZ\n\n\n(5.7)\n\n\ncommutes, and with the property that for any commutative square\n\n\n\n\nA\n\n\n\nf\n2\n\n\n\n\nf\n1\n\n\nY\n\nt\n\nX\n\ns\n\nZ\n\n\n(5.8)\n\n\nin 𝒜, there is a unique map f¯:A→P such that\n\n\n\n\nA\n\n\n\nf\n2\n\n\n\n¯\nf\n\n\n\n\nf\n1\n\n\nP\n\n\n\np\n2\n\n\n\n\np\n1\n\n\nY\n\nt\n\nX\n\ns\n\nZ\n\n\n(5.9)\n\n\ncommutes. (For (5.9) to commute means only that p1⁢f¯=f1 and p2⁢f¯=f2, since the commutativity of the square is\nalready given.)"
+  },
+  {
+    "headword": "diagram",
+    "definition": "Let 𝒜 be a category and 𝐈 a small category. A functor\n𝐈→𝒜 is called a diagram\nin 𝒜 of shape\n𝐈."
+  },
+  {
+    "headword": "shape",
+    "definition": "Let 𝒜 be a category and 𝐈 a small category. A functor\n𝐈→𝒜 is called a diagram\nin 𝒜 of shape\n𝐈."
+  },
+  {
+    "headword": "cone",
+    "definition": "Let 𝒜 be a category, 𝐈 a small category, and D:𝐈→𝒜 a diagram in 𝒜.\n\n\n\n\n[(b)]\n\n\n\n(a).\n\nA cone\non D is an object A∈𝒜 (the vertex\nof the cone) together with a family\n\n\n\n(A⟶fID⁢(I))I∈𝐈\n\n(5.15)\n\n\nof maps in 𝒜 such that for all maps I⟶uJ in 𝐈, the\ntriangle\n\n\n\nD⁢(I)D⁢uAfIfJD⁢(J)\n\n\n\ncommutes. (Here and later, we abbreviate D⁢(u) as D⁢u.)\n\n\n\n(b).\n\nA limit\nof D is a cone (L⟶pID⁢(I))I∈𝐈 with the\nproperty that for any cone (5.15) on D, there exists a\nunique map f¯:A→L\nsuch that pI∘f¯=fI for all I∈𝐈. The maps pI\nare called the projections\nof the limit."
+  },
+  {
+    "headword": "vertex",
+    "definition": "Let 𝒜 be a category, 𝐈 a small category, and D:𝐈→𝒜 a diagram in 𝒜.\n\n\n\n\n[(b)]\n\n\n\n(a).\n\nA cone\non D is an object A∈𝒜 (the vertex\nof the cone) together with a family\n\n\n\n(A⟶fID⁢(I))I∈𝐈\n\n(5.15)\n\n\nof maps in 𝒜 such that for all maps I⟶uJ in 𝐈, the\ntriangle\n\n\n\nD⁢(I)D⁢uAfIfJD⁢(J)\n\n\n\ncommutes. (Here and later, we abbreviate D⁢(u) as D⁢u.)\n\n\n\n(b).\n\nA limit\nof D is a cone (L⟶pID⁢(I))I∈𝐈 with the\nproperty that for any cone (5.15) on D, there exists a\nunique map f¯:A→L\nsuch that pI∘f¯=fI for all I∈𝐈. The maps pI\nare called the projections\nof the limit."
+  },
+  {
+    "headword": "limit",
+    "definition": "Let 𝒜 be a category, 𝐈 a small category, and D:𝐈→𝒜 a diagram in 𝒜.\n\n\n\n\n[(b)]\n\n\n\n(a).\n\nA cone\non D is an object A∈𝒜 (the vertex\nof the cone) together with a family\n\n\n\n(A⟶fID⁢(I))I∈𝐈\n\n(5.15)\n\n\nof maps in 𝒜 such that for all maps I⟶uJ in 𝐈, the\ntriangle\n\n\n\nD⁢(I)D⁢uAfIfJD⁢(J)\n\n\n\ncommutes. (Here and later, we abbreviate D⁢(u) as D⁢u.)\n\n\n\n(b).\n\nA limit\nof D is a cone (L⟶pID⁢(I))I∈𝐈 with the\nproperty that for any cone (5.15) on D, there exists a\nunique map f¯:A→L\nsuch that pI∘f¯=fI for all I∈𝐈. The maps pI\nare called the projections\nof the limit."
+  },
+  {
+    "headword": "projections",
+    "definition": "Let 𝒜 be a category, 𝐈 a small category, and D:𝐈→𝒜 a diagram in 𝒜.\n\n\n\n\n[(b)]\n\n\n\n(a).\n\nA cone\non D is an object A∈𝒜 (the vertex\nof the cone) together with a family\n\n\n\n(A⟶fID⁢(I))I∈𝐈\n\n(5.15)\n\n\nof maps in 𝒜 such that for all maps I⟶uJ in 𝐈, the\ntriangle\n\n\n\nD⁢(I)D⁢uAfIfJD⁢(J)\n\n\n\ncommutes. (Here and later, we abbreviate D⁢(u) as D⁢u.)\n\n\n\n(b).\n\nA limit\nof D is a cone (L⟶pID⁢(I))I∈𝐈 with the\nproperty that for any cone (5.15) on D, there exists a\nunique map f¯:A→L\nsuch that pI∘f¯=fI for all I∈𝐈. The maps pI\nare called the projections\nof the limit."
+  },
+  {
+    "headword": "has\nlimits of shape 𝐈",
+    "definition": "[(b)]\n\n\n\n(a).\n\nLet 𝐈 be a small category. A category 𝒜 has\nlimits of shape 𝐈 if for every diagram D of shape 𝐈 in\n𝒜, a limit of D exists.\n\n\n\n(b).\n\nA category has all limits (or properly, has small limits)\nif it has limits of shape 𝐈 for all small categories 𝐈."
+  },
+  {
+    "headword": "has all limits",
+    "definition": "[(b)]\n\n\n\n(a).\n\nLet 𝐈 be a small category. A category 𝒜 has\nlimits of shape 𝐈 if for every diagram D of shape 𝐈 in\n𝒜, a limit of D exists.\n\n\n\n(b).\n\nA category has all limits (or properly, has small limits)\nif it has limits of shape 𝐈 for all small categories 𝐈."
+  },
+  {
+    "headword": "has small limits",
+    "definition": "[(b)]\n\n\n\n(a).\n\nLet 𝐈 be a small category. A category 𝒜 has\nlimits of shape 𝐈 if for every diagram D of shape 𝐈 in\n𝒜, a limit of D exists.\n\n\n\n(b).\n\nA category has all limits (or properly, has small limits)\nif it has limits of shape 𝐈 for all small categories 𝐈."
+  },
+  {
+    "headword": "monic",
+    "definition": "Let 𝒜 be a category. A map X⟶fY in 𝒜 is\nmonic\n(or a monomorphism)\nif for all objects A and maps Axx′X,\n\n\n\nf∘x=f∘x′⟹x=x′."
+  },
+  {
+    "headword": "monomorphism",
+    "definition": "Let 𝒜 be a category. A map X⟶fY in 𝒜 is\nmonic\n(or a monomorphism)\nif for all objects A and maps Axx′X,\n\n\n\nf∘x=f∘x′⟹x=x′."
+  },
+  {
+    "headword": "cocone",
+    "definition": "Let 𝒜 be a category and 𝐈 a small category. Let D:𝐈→𝒜 be a diagram in 𝒜, and write Dop for the\ncorresponding functor 𝐈op→𝒜op. A cocone\non D is a cone on Dop, and a colimit\nof D is a limit of Dop."
+  },
+  {
+    "headword": "colimit",
+    "definition": "Let 𝒜 be a category and 𝐈 a small category. Let D:𝐈→𝒜 be a diagram in 𝒜, and write Dop for the\ncorresponding functor 𝐈op→𝒜op. A cocone\non D is a cone on Dop, and a colimit\nof D is a limit of Dop."
+  },
+  {
+    "headword": "sum",
+    "definition": "A sum\nor coproduct\nis a colimit over a discrete category. (That is, it is a colimit of shape\n𝐈 for some discrete category 𝐈.)"
+  },
+  {
+    "headword": "coproduct",
+    "definition": "A sum\nor coproduct\nis a colimit over a discrete category. (That is, it is a colimit of shape\n𝐈 for some discrete category 𝐈.)"
+  },
+  {
+    "headword": "coequalizer",
+    "definition": "A coequalizer\nis a colimit of shape 𝐄."
+  },
+  {
+    "headword": "pushout",
+    "definition": "A pushout\nis a colimit of shape\n\n\n\n𝐏op=\n\n\n\n\n\n∙\n\n∙\n\n∙\n."
+  },
+  {
+    "headword": "epic",
+    "definition": "Let 𝒜 be a category. A map X⟶fY in 𝒜 is\nepic\n(or an epimorphism)\nif for all objects Z and maps Ygg′Z,\n\n\n\ng∘f=g′∘f⟹g=g′."
+  },
+  {
+    "headword": "epimorphism",
+    "definition": "Let 𝒜 be a category. A map X⟶fY in 𝒜 is\nepic\n(or an epimorphism)\nif for all objects Z and maps Ygg′Z,\n\n\n\ng∘f=g′∘f⟹g=g′."
+  },
+  {
+    "headword": "preserves\nlimits of shape 𝐈",
+    "definition": "[(b)]\n\n\n\n(a).\n\nLet 𝐈 be a small category. A functor F:𝒜→ℬ\npreserves\nlimits of shape 𝐈 if for all diagrams D:𝐈→𝒜 and all cones (A⟶pID⁢(I))I∈𝐈 on\nD,\n\n\n\n(b).\n\nA functor F:𝒜→ℬ preserves limits if it\npreserves limits of shape 𝐈 for all small categories 𝐈.\n\n\n\n(c).\n\nReflection\nof limits is defined as in (a), but with ⟸\nin place of ⟹."
+  },
+  {
+    "headword": "preserves limits",
+    "definition": "[(b)]\n\n\n\n(a).\n\nLet 𝐈 be a small category. A functor F:𝒜→ℬ\npreserves\nlimits of shape 𝐈 if for all diagrams D:𝐈→𝒜 and all cones (A⟶pID⁢(I))I∈𝐈 on\nD,\n\n\n\n(b).\n\nA functor F:𝒜→ℬ preserves limits if it\npreserves limits of shape 𝐈 for all small categories 𝐈.\n\n\n\n(c).\n\nReflection\nof limits is defined as in (a), but with ⟸\nin place of ⟹."
+  },
+  {
+    "headword": "Reflection",
+    "definition": "[(b)]\n\n\n\n(a).\n\nLet 𝐈 be a small category. A functor F:𝒜→ℬ\npreserves\nlimits of shape 𝐈 if for all diagrams D:𝐈→𝒜 and all cones (A⟶pID⁢(I))I∈𝐈 on\nD,\n\n\n\n(b).\n\nA functor F:𝒜→ℬ preserves limits if it\npreserves limits of shape 𝐈 for all small categories 𝐈.\n\n\n\n(c).\n\nReflection\nof limits is defined as in (a), but with ⟸\nin place of ⟹."
+  },
+  {
+    "headword": "creates\nlimits (of shape 𝐈)",
+    "definition": "A functor F:𝒜→ℬ creates\nlimits (of shape 𝐈) if whenever D:𝐈→𝒜 is\na diagram in 𝒜,\n\n\n•\n\nfor any limit cone (B⟶qIF⁢D⁢(I))I∈𝐈 on\nthe diagram F∘D, there is a unique cone (A⟶pID⁢(I))I∈𝐈 on D such that F⁢(A)=B and F⁢(pI)=qI\nfor all I∈𝐈;\n\n\n\n•\n\nthis cone (A⟶pID⁢(I))I∈𝐈 is a limit cone\non D."
+  },
+  {
+    "headword": "category\nof elements",
+    "definition": "Let 𝐀 be a category and X a presheaf on 𝐀. The\ncategory\nof elements 𝐄⁢(X)\nof X is the category in which:\n\n\n•\n\nobjects are pairs (A,x) with A∈𝐀 and x∈X⁢(A);\n\n\n\n•\n\nmaps (A′,x′)→(A,x) are maps f:A′→A in 𝐀 such\nthat (X⁢f)⁢(x)=x′."
+  },
+  {
+    "headword": "complete",
+    "definition": "A category is complete\n(or properly, small complete) if it has all limits."
+  },
+  {
+    "headword": "small complete",
+    "definition": "A category is complete\n(or properly, small complete) if it has all limits."
+  },
+  {
+    "headword": "weakly\ninitial set",
+    "definition": "Let 𝒞 be a category. A weakly\ninitial set in 𝒞 is a set 𝐒 of objects with the property\nthat for each C∈𝒞, there exist an element S∈𝐒 and\na map S→C."
+  },
+  {
+    "headword": "cartesian closed",
+    "definition": "A category 𝒜 is cartesian closed if it has finite products\nand for each B∈𝒜, the functor −×B:𝒜→𝒜 has a right adjoint."
+  }
+]
