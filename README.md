@@ -1,11 +1,10 @@
 # CT corpora
-A directory to collect  corpora obtained from textbooks in Category Theory.
+A directory to collect  corpora obtained from textbooks in Category Theory. We have permission from Tom Leinster, Emily Riehl, and Rob Goldblatt to use their books for experiments extracting math concepts.
 
-The first corpus is Leinster's book "Basic Category Theory".
+
+The first corpus uses Leinster's book "Basic Category Theory".
 Tom Leinster's book is CC 4.0 BY in the arxiv. 
-Adding both pdf and tex source from https://arxiv.org/format/1612.09375
-
-We have permission from both Emily Riehl and Rob Goldblatt to use their books for experiments extracting math concepts.
+Adding both pdf and tex source from https://arxiv.org/format/1612.09375.
 
 Riehl's book "Category Theory in Context", was published in November 2016 by Dover Publications. 
 Emily hosts a free PDF copy of her book [here](https://emilyriehl.github.io/files/context.pdf), see her [page](https://math.jhu.edu/~eriehl/context/).
