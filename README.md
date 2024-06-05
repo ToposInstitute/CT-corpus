@@ -10,7 +10,10 @@ We have permission from both Emily Riehl and Rob Goldblatt to use their books fo
 Riehl's book "Category Theory in Context", was published in November 2016 by Dover Publications. 
 Emily hosts a free PDF copy of her book [here](https://emilyriehl.github.io/files/context.pdf), see her [page](https://math.jhu.edu/~eriehl/context/).
 
-Goldblatt's book 
+Goldblatt's book "Topoi: The Categorial Analysis of Logic" is available as an Internet edition in the Cornell University Library Historical Mathematics Monographs Collection, 2002;
+Dover Publications reprint, 2006;
+Downloadable as [pdf](https://projecteuclid.org/ebooks/books-by-independent-authors/Topoi-The-Categorial-Analysis-of-Logic/toc/bia/1403013939) from Project Euclid, 2014. 
+
 
 Harold Simmon's book, "An Introduction to Category Theory", version from 2010.
 license not known, available from https://dl.icdst.org/pdfs/files3/589bdb0ed138159a2b3e5ccb4268a9f9.pdf
