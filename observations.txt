@@ -1,0 +1,8 @@
+From memory, need to check:
+
+1. Have officially 4058 sentences, but only 3851 roots.
+
+2. Last 4 pages are "Index of Notation", so very "long sentences" without a root.
+
+3. only 42 Latex definitions? number of pages? less than 200?
+
