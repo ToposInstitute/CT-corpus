@@ -30,7 +30,7 @@ Linear Algebra Corpora
 
 I intend to create a corpus for linear algebra based on open-source books. The first book (lightly processed by Deyan Ginev) can be found at
 https://drive.google.com/drive/u/0/folders/1PTbDmPmuIYSHp3F5QEhZ6jeX84W69iwl a result from the Workshop 
-"Open-source cyberinfrastructure supporting mathematics research" (https://aimath.org/pastworkshops/cyberinfrastructure.html)
+[Open-source cyberinfrastructure supporting mathematics research](https://aimath.org/pastworkshops/cyberinfrastructure.html)
 
 -----------------------
 
